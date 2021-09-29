@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.892a77aa.chunk.css",
+    "main.js": "/static/js/main.a8a11d22.chunk.js",
+    "main.js.map": "/static/js/main.a8a11d22.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.877497f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.877497f0.js.map",
+    "static/css/2.f2512455.chunk.css": "/static/css/2.f2512455.chunk.css",
+    "static/js/2.68b0b49b.chunk.js": "/static/js/2.68b0b49b.chunk.js",
+    "static/js/2.68b0b49b.chunk.js.map": "/static/js/2.68b0b49b.chunk.js.map",
+    "static/js/3.da02ee10.chunk.js": "/static/js/3.da02ee10.chunk.js",
+    "static/js/3.da02ee10.chunk.js.map": "/static/js/3.da02ee10.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.892a77aa.chunk.css.map": "/static/css/main.892a77aa.chunk.css.map",
+    "static/js/2.68b0b49b.chunk.js.LICENSE.txt": "/static/js/2.68b0b49b.chunk.js.LICENSE.txt",
+    "static/media/Cyber Shadow.e16ed11f.jpg": "/static/media/Cyber Shadow.e16ed11f.jpg",
+    "static/media/StrongholdWarlords.610272d4.jpg": "/static/media/StrongholdWarlords.610272d4.jpg",
+    "static/media/card2.05c83117.jpg": "/static/media/card2.05c83117.jpg",
+    "static/media/card3.5f90fb2a.jpg": "/static/media/card3.5f90fb2a.jpg",
+    "static/media/cratos.71c6b5e8.jpg": "/static/media/cratos.71c6b5e8.jpg",
+    "static/media/hitman.b57146fc.jpg": "/static/media/hitman.b57146fc.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/marioo.bd21cd52.jpg": "/static/media/marioo.bd21cd52.jpg",
+    "static/media/minecratf.fc1472f6.jpg": "/static/media/minecratf.fc1472f6.jpg",
+    "static/media/nintendo.0b1aedf0.jpg": "/static/media/nintendo.0b1aedf0.jpg",
+    "static/media/play5.12ca07a9.jpg": "/static/media/play5.12ca07a9.jpg",
+    "static/media/top2021.b2be1f94.jpg": "/static/media/top2021.b2be1f94.jpg",
+    "static/media/xboxjpg.f14c4dd7.jpg": "/static/media/xboxjpg.f14c4dd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.877497f0.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.68b0b49b.chunk.js",
+    "static/css/main.892a77aa.chunk.css",
+    "static/js/main.a8a11d22.chunk.js"
+  ]
+}
